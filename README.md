@@ -33,7 +33,7 @@ The dashboard enables business users to explore which products and regions are d
   - Category/Sub-Category filter
  
 ### 📸 Dashboard Snapshot:
-![Profit Dashboard](images/profit_dashboard.png)
+<a href="https://github.com/Shreyathudi-217/sales-profit-dashboard-tableau/blob/main/Tableau%20Public%20-%20Sales%20performance%20Dashboard%2004-07-2025%2016_04_25.png">Dashboard screenshot
 
 ## 🔍 Key Business Insights
 - ❌ **Tables** in the Furniture category are showing **significant losses**, indicating potential pricing or sourcing issues.
