@@ -12,7 +12,7 @@ The dashboard enables business users to explore which products and regions are d
 
 ## 📁 Dataset
 - **Dataset**: Superstore US Sales Data  
-- **Source**: [Kaggle - Superstore Sales](https://www.kaggle.com/datasets)  
+- **Source**: <a href="https://github.com/Shreyathudi-217/sales-profit-dashboard-tableau/blob/main/Sample%20-%20Superstore.csv">Dataset
 - **Fields Used**: Category, Sub-Category, State, Region, Profit, Quantity, Manufacturer.
 
 ## 🛠 Tools & Technologies
